@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("天不生我李淳罡");
         System.out.println("剑道万古如长夜");
         System.out.println("陈晨是神");
+        System.out.println("我是神");
     }
 }
